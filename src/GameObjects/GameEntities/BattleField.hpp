@@ -11,6 +11,8 @@
 #define MAX_NEMICI 36
 #define NEMICI_RIGA 12
 
+#pragma comment(lib,"gdi32.lib")
+
 #include <vector>
 
 #include "../GameObject.hpp"

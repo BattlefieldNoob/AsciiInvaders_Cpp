@@ -17,6 +17,7 @@ public:
     Enemy(int,float,float,bool);
     void update();
     void render();
+
 };
 
 

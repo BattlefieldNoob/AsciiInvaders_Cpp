@@ -9,7 +9,7 @@
 #define DRAWABLEOBJECT_H_
 
 #include "GameObject.hpp"
-#include <curses.h>
+#include "curses.h"
 
 class DrawableObject:public GameObject{
     float x,y;
